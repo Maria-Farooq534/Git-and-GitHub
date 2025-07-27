@@ -9,6 +9,6 @@
 # print(sum1)
 
 for i in range(5):
-    
+
     for start in range(5):
         print(f"({i} , {start})")
