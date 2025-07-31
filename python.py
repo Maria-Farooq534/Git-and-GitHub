@@ -10,5 +10,5 @@
 
 for i in range(5):
 
-    for start in range(5):
-        print(f"({i} , {start})")
+    for starts in range(5):
+        print(f"({i} , {starts})")
